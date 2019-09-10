@@ -1,0 +1,7 @@
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\bin\Debug\TareaSurf-a-Thon.exe.config
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\bin\Debug\TareaSurf-a-Thon.exe
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\bin\Debug\TareaSurf-a-Thon.pdb
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\obj\Debug\TareaSurf-a-Thon.csprojAssemblyReference.cache
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\obj\Debug\TareaSurf-a-Thon.csproj.CoreCompileInputs.cache
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\obj\Debug\TareaSurf-a-Thon.exe
+C:\Users\mtorr\source\repos\TareaSurf-a-Thon\obj\Debug\TareaSurf-a-Thon.pdb
